@@ -1,0 +1,360 @@
+!-- Note: you can turn on/off word wrap in this text area by clicking the checkbox below. Also, any text you see between less than and greater than marks, that's HTML. You don't have to use/know HTML to write a QnA, but it can be useful. For example, this text doesn't show up in the word bubbles because it's an HTML comment. -->
+
+Q(1): Hi! Welcome to Evictions 101! Are you here because you need help with the eviction process? 
+A: Yes.
+	Q(1.1): Which of the following can we help you with?
+	A: I lost my eviction case and want to appeal.
+		Q(1.1.1): Did you lose your eviction case in a Massachusetts Housing Court/Superior Court?
+		A: Yes.
+			Q(1.1.1.1): Do you want to appeal this decision?
+			A: Yes.
+				Q(1.1.1.1.1): Okay, please <a href="https://www.masslegalhelp.org/housing/lt1-booklet-7a-appeals.pdf"target="_blank">click here</a> for the instructions and documents you will need. GOTO:10
+			A: I'm not sure, I want more information.
+				Q(1.1.1.1.2): Okay, please <a href="https://www.masslegalhelp.org/housing/lt1-booklet-7-appeals.pdf"target=_blank">click here</a> for more information on the appeals process. GOTO:9
+					
+		A: No.
+			Q(1.1.1.2): Are you here because you lost an eviction case in Massachusetts District Court?
+			A: Yes.
+				Q(1.1.1.2.1): Do you want to appeal the decision?
+				A: Yes.
+					Q(1.1.1.2.1.1): Okay, please <a href="https://www.masslegalhelp.org/housing/lt1-booklet-7b-appeals.pdf"target=_blank">click here</a> for the instructions and documents you will need. GOTO:10
+				A: I'm not sure, I want more information on the appeals process.
+					Q(1.1.1.2.1.2): Okay, please <a href="https://www.masslegalhelp.org/housing/lt1-booklet-7-appeals.pdf"target=_blank">click here</a> for more information on the appeals process. GOTO:9
+			A: No. 
+				Q(1.1.1.2.2): You need to find out in which court you lost your appeal. GOTO:10
+	A: I am being evicted and need some help.
+		Q(1.1.2): Okay, are you being evicted for non-payment of rent?
+		A: Yes.
+			Q(1.1.2.1): Have you received a written 14 days notice to quit? <a href="https://www.gbls.org/sites/default/files/resources/notice-to-quit-14.png"target=_blank">Click here</a> to see what this document might look like.
+			A: Yes.
+				Q(1.1.2.1.1): Okay don't worry, you don't have to move out on this date. Have you been served a Summary Process Summons and Complaint? Summary Process is a technical name for the eviction. <a href="https://www.masslegalhelp.org/sites/default/files/mlhfiles/file_images/summons_and_complaint.png"target=_blank"> Click here </a> to see what the document might look like.
+				A: Yes
+					Q(1.1.2.1.1.1): Okay, were the summons and complaint served after the end of the tenancy? 
+					A: Yes.
+						Q(1.1.2.1.1.1.1): Please <a href="https://www.youtube.com/watch?time_continue=27&v=5gYPl-NHbv0&feature=emb_logo"target=_blank"> click here </a> and watch the video. Do you think your Land Lord properly served you the Summons and Complaint?
+						A: Yes.
+							Q(1.1.2.1.1.1.1.1): Okay, there will be another notice that will give the Time, Date, and Location of your Summary Process Hearing. You must prepare to fight your Land Lord in Court. 
+							A: Can I fight this on my own?
+								Q(1.1.2.1.1.1.1.1.1): Yes, and we can help! GOTO:4
+							A: Is there any way I can get a lawyer?
+								Q(1.1.2.1.1.1.1.1.2): Yes, let's see what you need! GOTO:3
+							A: I think I need more time to think about what's best for me.
+								Q(1.1.2.1.1.1.1.1.3): Okay GOTO:5
+						A:No.
+							Q(1.1.2.1.1.1.1.2): Okay, this may invalidate the eviction. Please <a href="https://www.masslegalhelp.org/housing/lt1-form-20-motion-to-dismiss.pdf"target=_blank"> click here </a> for a motion to dismiss form. Print it out, fill it out, bring it to court and deliver a copy to the Land Lord or their attorney.
+							A: I have more questions about this form and what happens next.
+								Q(1.1.2.1.1.1.1.2.1): Okay, there is an Entry Date listed on the Summons and Complaint form. <a href="https://www.masslegalhelp.org/sites/default/files/mlhfiles/file_images/summons_and_complaint.png"target=_blank"> Click here </a> to see what this document looks like. If you deliver the motion to the court and Land Lord prior to the Entry Date AND the judge rules in your favor, your case is dismissed.
+								A: Okay, what if the judge rules against me or cannot decide the case that day?
+									Q(1.1.2.1.1.1.1.2.1.1): You must now prepare to fight your Land Lord in court. Would you like help?
+									A: Yes.
+										Q(1.1.2.1.1.1.1.2.1.1.1): Would you like to take this on yourself or try to find an attorney?
+										A: Take this on myself. 
+											Q(1.1.2.1.1.1.1.2.1.1.1.1): Okay. GOTO:4
+										A: Try to find an attorney. 
+											Q(1.1.2.1.1.1.1.2.1.1.1.2): Okay. GOTO:3
+									A: No.
+										Q(1.1.2.1.1.1.1.2.1.1.2): Are you sure? We can guide you to the resources you need.
+										A: I would like your help.
+											Q(1.1.2.1.1.1.1.2.1.1.2.1): Okay. GOTO:6
+										A: No, I don't want your help.
+											Q(1.1.2.1.1.1.1.2.1.1.2.2): Okay. GOTO:5
+							A: I am comfortable filling out this form.
+								Q(1.1.2.1.1.1.1.2.2): Okay. GOTO:10
+					A: No.
+						Q(1.1.2.1.1.1.2): Okay, this may invalidate the eviction. Please <a href="https://www.masslegalhelp.org/housing/lt1-form-20-motion-to-dismiss.pdf"target=_blank"> click here </a> for a motion to dismiss form. Print it out, fill it out, bring it to court and deliver a copy to the Land Lord or their attorney. 
+						A: I have more questions about this form and what happens next.
+							Q(1.1.2.1.1.1.2.1): Okay, there is an Entry Date listed on the Summons and Complaint form. <a href="https://www.masslegalhelp.org/sites/default/files/mlhfiles/file_images/summons_and_complaint.png"target=_blank"> Click here </a> to see what this document looks like. If you deliver the motion to the court and Land Lord prior to the Entry Date AND the judge rules in your favor, your case is dismissed.
+							A: Okay, what if the judge rules against me or cannot decide the case that day?
+								Q(1.1.2.1.1.1.2.1.1): You must now prepare to fight your Land Lord in court. Would you like help?
+								A: Yes.
+									Q(1.1.2.1.1.1.2.1.1.1): Would you like to take this on yourself or try to find an attorney?
+									A: Take this on myself. 
+										Q(1.1.2.1.1.1.2.1.1.1.1): Okay. GOTO:4
+									A: Try to find an attorney. 
+										Q(1.1.2.1.1.1.2.1.1.1.2): Okay. GOTO:3
+								A: No.
+									Q(1.1.2.1.1.1.2.1.1.2): Are you sure? We can guide you to the resources you need.
+									A: I would like your help. 
+										Q(1.1.2.1.1.1.2.1.1.2.1): Okay. GOTO:6
+									A: No, I don't want your help.
+										Q(1.1.2.1.1.1.2.1.1.2.2): Okay. GOTO:5
+							A: Thank you for the advice, I am all set now.
+								Q(1.1.2.1.1.1.2.1.2): Okay. GOTO:2
+						A: I am comfortable filling out this form.
+							Q(1.1.2.1.1.1.2.2): Okay. GOTO:10
+				A: No 
+					Q(1.1.2.1.1.2): You need to have been served the Summons and Complaint in order for your landlord to properly evict you. GOTO:7
+			A: No.
+				Q(1.1.2.1.2): Your landlord needs to provide you with this notice to evict you for nonpayment of rent. Is your landlord threatening to evict you, or accusing you of illegal activity? 
+				A: Yes.
+					Q(1.1.2.1.2.1): Okay GOTO:3
+				A: No.
+					Q(1.1.2.1.2.2): Okay, would you like to learn more about the eviction process?
+					A: Yes.
+						Q(1.1.2.1.2.2.1): Okay, please <a href="https://www.masslegalhelp.org/housing/lt1-pullout-12-evictions"target=_blank"> click here </a> for a guide for what to expect when facing an eviction. 
+					A: No.
+						Q(1.1.2.1.2.2.2): Okay. GOTO:2
+		A: No.
+			Q(1.1.2.2): Did you sign a lease or are you month-to-month? 
+			A: I signed a lease.
+				Q(1.1.2.2.1): Is your Land Lord trying to make you leave before the end of your lease?
+				A: Yes.
+					Q(1.1.2.2.1.1): Okay, did your Landlord give you a 30-Day Notice to Quit? <a href="https://www.gbls.org/sites/default/files/resources/notice-to-quit-14.png"target=_blank">Click here</a> to see what this document might look like.
+					A: Yes.
+						Q(1.1.2.2.1.1.1): Okay. GOTO:11
+					A: No.
+						Q(1.1.2.2.1.1.2): Okay, your Land Lord needs to give you this notice in order to evict you. Is your landlord threatening to evict you, or accusing you of illegal activity?
+						A: Yes.
+							Q(1.1.2.2.1.1.2.1): Okay. GOTO:3
+						A: No.  
+							Q(1.1.2.2.1.1.2.2): Okay, you may not be facing an eviction. Would you like to learn more about the eviction process?
+							A: Yes. 
+								Q(1.1.2.2.1.1.2.2.1): Okay, please <a href="https://www.masslegalhelp.org/housing/lt1-pullout-12-evictions"target=_blank"> click here </a> for a guide for more information on the eviction process.
+							A: No.
+								Q(1.1.2.2.1.1.2.2.2): Okay. GOTO:2
+				A: No.
+					Q(1.1.2.2.1.2): Okay, you may not be facing an eviction. Would you like to learn more about the eviction process?
+					A: Yes.
+						Q(1.1.2.2.1.2.1): Okay, please <a href="https://www.masslegalhelp.org/housing/lt1-pullout-12-evictions"target=_blank"> click here </a> for a guide to more information on the eviction process. 
+					A: No.
+						Q(1.1.2.2.1.2.2): Okay. GOTO:2		
+			A: I did not sign a lease and I pay month-to-month.
+				Q(1.1.2.2.2): Okay, you are considered a Tenant-at-Will. Has your landlord given you a written 30 days (minimum) notice to quit?
+				A: Yes.
+					Q(1.1.2.2.2.1): Does the written 30 days notice to quit expire at the end of a rental period?
+					A: Yes. 
+						Q(1.1.2.2.2.1.1): Okay, your Land Lord does not need to state a reason end a Tenancy-At-Will. Unfortunately, we cannot help in this case. GOTO:10
+					A: No.
+						Q(1.1.2.2.2.1.2): Okay. GOTO:11  
+				A: No.
+					Q(1.1.2.2.2.2): Your landlord must give you a written 30-Day Notice to Quit that expires at the end of a rental period. Is your Land Lord threatening to evict you, or accusing you of illegal activity?
+					A: Yes.
+						Q(1.1.2.2.2.2.1): Okay. GOTO:3
+					A: No.
+						Q(1.1.2.2.2.2.2): Okay, you may not be facing an eviction. Would you like to learn more about the eviction process?
+						A: Yes.
+							Q(1.1.2.2.2.2.2.1): Okay, please <a href="https://www.masslegalhelp.org/housing/lt1-pullout-12-evictions"target=_blank"> click here </a> for a guide to more information on the eviction process.
+						A: No. 
+							Q(1.1.2.2.2.2.2.2): Okay. GOTO:2
+	A: I want to transfer to Housing Court.
+		Q(1.1.3): Okay, there are multiple Housing Courts in Massachusetts and you want to transfer to the closest one to your home. Do you know which Housing Court is closest to home?
+		A: Yes
+			Q(1.1.3.1): Okay, <a href="https://www.masslegalhelp.org/housing/lt1-booklet-5-transfer.pdf"target=_blank">click here</a> for the document you need. Please read the instructions carefully. 
+			A: Yes, I have more questions.
+				Q(1.1.3.1.1): Okay. GOTO:8
+			A: No, I am all set.
+				Q(1.1.3.1.2): Okay, GOTO:2
+		A: No.
+			Q(1.1.3.2): Okay, <a href="https://www.mass.gov/orgs/housing-court/locations?_page=2#"target=_blank">click here</a> for a list of the Housing Courts in Massachusetts. Please find the one closest to your home and then <a href="https://www.masslegalhelp.org/housing/lt1-booklet-5-transfer.pdf"target=_blank">click here</a> for the document you need. Please read the instructions carefully.  
+			A: I have more questions.
+				Q(1.1.3.2.1): Okay, GOTO:8
+			A: I think I am all set.
+				Q(1.1.3.2.2): Okay, GOTO:2
+	A: I want to find a lawyer.
+		Q(1.1.4): Okay. GOTO:3	
+	A: None of the above.
+		Q(1.1.5): Okay. GOTO:8
+A: No. 
+	Q(1.2): Okay then. GOTO:2
+
+Q(2): Thanks for using this service.
+
+Q(3): You may qualify for a free attorney through Legal Aid, a program for people who don't have a lot of money. How many people live in the house?
+A: 1
+	Q(3.1): Okay, do you make under $16,100 per year?
+	A: Yes
+		Q(3.1.1): Okay, <a href="https://www.masslegalhelp.org/about/legal-aid"target=_blank">Click here</a> for instructions on how to apply for Legal Aid. About halfway down the page you will see the word eviction, click it and you will be taken to the proper resource. GOTO:14
+	A: No
+		Q(3.1.2): Okay. GOTO:15
+A: 2
+	Q(3.2): Okay, do you make under $21,775 per year?
+	A: Yes.
+		Q(3.2.1): Okay, <a href="https://www.masslegalhelp.org/about/legal-aid"target=_blank">Click here</a> for instructions on how to apply for Legal Aid. About halfway down the page you will see the word eviction, click it and you will be taken to the proper resource. GOTO:14
+	A: No.
+		Q(3.2.2): Okay. GOTO:15
+A: 3
+	Q(3.3): Okay, do you make under $27,450 per year?
+	A: Yes.	
+		Q(3.3.1): Okay, <a href="https://www.masslegalhelp.org/about/legal-aid"target=_blank">Click here</a> for instructions on how to apply for Legal Aid. About halfway down the page you will see the word eviction, click it and you will be taken to the proper resource. GOTO:14
+	A: No.
+		Q(3.3.2): Okay. GOTO:15
+A: 4
+	Q(3.4): Okay, do you make under $33,125 per year?
+	A: Yes. 
+		Q(3.4.1): Okay, <a href="https://www.masslegalhelp.org/about/legal-aid"target=_blank">Click here</a> for instructions on how to apply for Legal Aid. About halfway down the page you will see the word eviction, click it and you will be taken to the proper resource. GOTO:14
+	A: No.
+		Q(3.4.2): Okay. GOTO:15
+A: 5
+	Q(3.5): Okay, do you make under $38,800 per year?
+	A: Yes. 
+		Q(3.5.1): Okay, <a href="https://www.masslegalhelp.org/about/legal-aid"target=_blank">Click here</a> for instructions on how to apply for Legal Aid. About halfway down the page you will see the word eviction, click it and you will be taken to the proper resource. GOTO:14
+	A: No.
+		Q(3.5.2): Okay. GOTO:15
+A: 6
+	Q(3.6): Okay, do you make under $44,475 per year?
+	A: Yes. 
+		Q(3.6.1): Okay, <a href="https://www.masslegalhelp.org/about/legal-aid"target=_blank">Click here</a> for instructions on how to apply for Legal Aid. About halfway down the page you will see the word eviction, click it and you will be taken to the proper resource. GOTO:14
+	A: No.
+		Q(3.6.2): Okay. GOTO:15
+A: 7
+	Q(3.7): Okay, do you make under $50,150 per year?
+	A: Yes.
+		Q(3.7.1): Okay, <a href="https://www.masslegalhelp.org/about/legal-aid"target=_blank">Click here</a> for instructions on how to apply for Legal Aid. About halfway down the page you will see the word eviction, click it and you will be taken to the proper resource. GOTO:14
+	A: No.
+		Q(3.7.2): Okay. GOTO:15
+A: 8
+	Q(3.8): Okay, do you make under $55,750 per year?
+	A: Yes.
+		Q(3.8.1): Okay, <a href="https://www.masslegalhelp.org/about/legal-aid"target=_blank">Click here</a> for instructions on how to apply for Legal Aid. About halfway down the page you will see the word eviction, click it and you will be taken to the proper resource. GOTO:14
+	A: No.
+		Q(3.8.2): Okay. GOTO:15
+A: 9 or more. 
+	Q(3.9): Okay, if there are 9 people in the house you must make under 61,425. Add $5,675 to that number for each additional person if there are over 9 people living in the house. Do you make under this amount?
+	A: Yes. 
+		Q(3.9.1): Okay, <a href="https://www.masslegalhelp.org/about/legal-aid"target=_blank">Click here</a> for instructions on how to apply for Legal Aid. About halfway down the page you will see the word eviction, click it and you will be taken to the proper resource. GOTO:14
+	A: No.
+		Q(3.9.2): Okay, GOTO:15
+Q(4): Okay we can help find the documents you need. Are you sure you're comfortable taking this on yourself?
+A: Yes. 
+	Q(4.1): Okay, does the Summons and Complaint paper say your case is in District Court or Housing Court? 
+	A: Housing Court
+		Q(4.1.1): You're going to need to file Answer and Discovery documents. You have until 3 days before the first court date to file these documents. You will need to fill out the Discovery document. Do you want a guide through the answer process or would you just like the document?
+		A: I think I want a guide.
+			Q(4.1.1.1): Okay, please <a href="https://www.masslegalhelp.org/housing/eviction-answer-interview"target=_blank">click here</a> for the self-guided interview. If you have more questions about how this process works, below the words "I am ready to start my answer" there is a link to more information on this guide. Please <a href="https://www.masslegalhelp.org/housing/lt1-booklet-4-discovery.pdf"target=_blank">click here</a> for the Discovery document. REMEMBER: Both forms need to be filled out and get to the court at least 3 days before the hearing. Do you have any questions?
+			A: I think I am all set.
+				Q(4.1.1.1.1): Okay. GOTO:10
+			A: I have some more questions.
+				Q(4.1.1.1.2): Okay. GOTO:8
+		A: Just the documents please. 
+			Q(4.1.1.2): Okay, please <a href="https://www.masslegalhelp.org/housing/lt1-booklet-3-answer.pdf"target=_blank">click here</a> for the answer packet. Please <a href="https://www.masslegalhelp.org/housing/lt1-booklet-4-discovery.pdf"target=_blank">click here</a> for the Discovery document. Please read the instructions very carefully. GOTO:10
+		A: I missed my answer date.
+			Q(4.1.1.3): Okay, you can still file a motion to allow a late answer. You will send this along with the Answer and Discovery documents. Please <a href="https://www.masslegalhelp.org/housing/motion_to_allow_late_answer.pdf"target=_blank">click here</a> for the motion to allow late answer document. Please <a href="https://www.masslegalhelp.org/housing/lt1-booklet-3-answer.pdf"target=_blank">click here</a> for a copy of the answer document. Please <a href="https://www.masslegalhelp.org/housing/lt1-booklet-4-discovery.pdf"target=_blank">click here</a> for the Discovery Document. Are you comfortable sending these documents on your own or would you like to try to talk to an attorney?
+			A: I can do this on my own.
+				Q(4.1.1.3.1): Okay. GOTO:10
+			A: I want to try to find an attorney to help.
+				Q(4.1.1.3.2): Okay. GOTO:3
+	A: District Court
+		Q(4.1.2): Okay, you can transfer your case to Housing Court. They are better at helping people without lawyers fight Land Lords. Do you want to transfer to Housing Court?
+		A: Yes.
+			Q(4.1.2.1): Okay. GOTO:13
+		A: No. 
+			Q(4.1.2.2): Okay, are you sure? They have more resources for someone in your position in housing court.
+			A: Yes, I am sure and I want the documents.
+				Q(4.1.2.2.1): Okay. GOTO:4.1.1
+			A: No, I think I should transfer.
+				Q(4.1.2.2.2): Okay. GOTO:13
+		
+		
+A: No.
+	Q(4.2): Okay. GOTO:3
+Q(5): When you're ready, please come back and we can help you find an attorney! PLEASE REMEMBER that the Summons and Complaint are time sensitive. Make sure you figure out when your court date is because that is something you don't want to miss. Are you sure that you don't want to take a look at our resources?
+A: Yes, I am sure.
+	Q(5.1): Okay. GOTO:2
+A: No, I think I want your help.
+	Q(5.2): Okay. GOTO:6
+Q(6): We can lead you to the proper resources to take this eviction on yourself, or try to find an attorney for you. Which would you like?
+A: Take this on myself. 
+	Q(6.1): Okay. GOTO:4
+A: Try to find an attorney for me.
+	Q(6.2): Okay. GOTO:3
+Q(7): Is your landlord threatening to evict you, or accusing you of illegal activity?
+A: Yes.
+	Q(7.1): Okay. GOTO:3
+A: No.  
+	Q(7.2): Okay, you may not be facing an eviction. Would you like to learn more about the eviction process?
+	A: Yes. 
+		Q(7.2.1): Okay, please <a href="https://www.masslegalhelp.org/housing/lt1-pullout-12-evictions"target=_blank"> click here </a> for a guide for more information on the eviction process.
+	A: No.
+		Q(7.2.2): Okay. GOTO:2
+Q(8):Would you like to learn more about evictions? 
+A: Yes.
+	Q(8.1): Okay, please <a href="https://www.masslegalhelp.org/housing/lt1-pullout-12-evictions"target=_blank"> click here </a> for a guide to more information on the eviction process.  
+A: No.
+	Q(8.2): Okay, GOTO:12
+Q(9): Would you like to see if we can find you a lawyer to consult?
+A: Yes. 
+	Q(9.1): Okay. GOTO:3
+A: No.
+	Q(9.2): Okay. GOTO:2
+Q(10): Is there anything else we can help you with?
+A: Yes. 
+	Q(10.1): Okay. GOTO:8
+A: No.
+	Q(10.2): Okay. GOTO:2
+Q(11): Have you been served a Summary Process Summons and Complaint? Summary Process is a technical name for the eviction. <a href="https://www.masslegalhelp.org/sites/default/files/mlhfiles/file_images/summons_and_complaint.png"target=_blank"> Click here </a> to see what the document might look like.
+A: Yes
+	Q(11.1): Okay, were the summons and complaint served after the day you were supposed to move out? 
+	A: Yes.
+		Q(11.1.1): Please <a href="https://www.youtube.com/watch?v=5gYPl-NHbv0&t=1s"target=_blank"> click here </a> and watch the video. Do you think your Land Lord properly served you the Summons and Complaint?
+		A: Yes.
+			Q(11.1.1.1): Okay, there will be another notice that will give the Time, Date, and Location of your Summary Process Hearing. You must prepare to fight your Land Lord in Court. 
+			A: Can I fight this on my own?
+				Q(11.1.1.1.1): Yes, and we can help! GOTO:4
+			A: Is there any way I can get a lawyer?
+				Q(11.1.1.1.2): Yes, let's see what you need! GOTO:3
+			A: I think I need more time to think about what's best for me.
+				Q(11.1.1.1.3): Okay GOTO:5
+		A:No.
+			Q(11.1.1.2): Okay, this may invalidate the eviction. Please <a href="https://www.masslegalhelp.org/housing/lt1-form-20-motion-to-dismiss.pdf"target=_blank"> click here </a> for a motion to dismiss form. Print it out, fill it out, bring it to court and deliver a copy to the Land Lord or their attorney.
+			A: I have more questions about this form and what happens next.
+				Q(11.1.1.2.1): Okay, there is an Entry Date listed on the Summons and Complaint form. <a href="https://www.masslegalhelp.org/sites/default/files/mlhfiles/file_images/summons_and_complaint.png"target=_blank"> Click here </a> to see what this document looks like. If you deliver the motion to the court and Land Lord prior to the Entry Date AND the judge rules in your favor, your case is dismissed.
+				A: Okay, what if the judge rules against me or cannot decide the case that day?
+					Q(11.1.1.2.1.1): You must now prepare to fight your Land Lord in court. Would you like help?
+					A: Yes.
+						Q(11.1.1.2.1.1.1): Would you like to take this on yourself or try to find an attorney?
+						A: Take this on myself. 
+							Q(11.1.1.2.1.1.1.1): Okay. GOTO:4
+						A: Try to find an attorney. 
+							Q(11.1.1.2.1.1.1.2): Okay. GOTO:3
+					A: No.
+						Q(11.1.1.2.1.1.2): Are you sure? We can guide you to the resources you need.
+						A: I would like your help.
+							Q(11.1.1.2.1.1.2.1): Okay. GOTO:6
+						A: No, I don't want your help.
+							Q(11.1.1.2.1.1.2.2): Okay. GOTO:5
+			A: Thank you for the advice, I am all set now.
+				Q(11.1.1.2.2): Okay. GOTO:2
+	A: No.
+		Q(11.1.2): Okay, this may invalidate the eviction. Please <a href="https://www.masslegalhelp.org/housing/lt1-form-20-motion-to-dismiss.pdf"target=_blank"> click here </a> for a motion to dismiss form. Print it out, fill it out, bring it to court and deliver a copy to the Land Lord or their attorney. 
+		A: I have more questions about this form and what happens next.
+			Q(11.1.2.1): Okay, there is an Entry Date listed on the Summons and Complaint form. <a href="https://www.masslegalhelp.org/sites/default/files/mlhfiles/file_images/summons_and_complaint.png"target=_blank"> Click here </a> to see what this document looks like. If you deliver the motion to the court and Land Lord prior to the Entry Date AND the judge rules in your favor, your case is dismissed.
+			A: Okay, what if the judge rules against me or cannot decide the case that day?
+				Q(11.1.2.1.1): You must now prepare to fight your Land Lord in court. Would you like help?
+				A: Yes.
+					Q(11.1.2.1.1.1): Would you like to take this on yourself or try to find an attorney?
+					A: Take this on myself. 
+						Q(11.1.2.1.1.1.1): Okay. GOTO:4
+					A: Try to find an attorney. 
+						Q(11.1.2.1.1.1.2): Okay. GOTO:3
+				A: No.
+					Q(11.1.2.1.1.2): Are you sure? We can guide you to the resources you need.
+					A: I would like your help. 
+						Q(11.1.2.1.1.2.1): Okay. GOTO:6
+					A: No, I don't want your help.
+						Q(11.1.2.1.1.2.2): Okay. GOTO:5
+			A: Thank you for the advice, I am all set now.
+				Q(11.1.2.1.2): Okay. GOTO:9
+		A: I am comfortable filling out this form and have no further questions right now.
+			Q(11.1.2.2): Okay. GOTO:2
+A: No 
+	Q(11.2): You need to have been served the Summons and Complaint in order for your landlord to properly evict you. GOTO:7
+Q(12): Would you like to see the timeline of an eviction process?
+A: Yes.
+	Q(12.1): Okay, please <a href="https://www.masslegalhelp.org/housing/lt1-chapter-12-eviction-timeline"target=_blank">click here</a> for a timeline of the eviction process. GOTO:2
+A: No.
+	Q(12.2): Okay. GOTO:9
+Q(13): Okay, there are multiple Housing Courts in Massachusetts and you want to transfer to the closest one to your home. Do you know which Housing Court is closest to home?
+A: Yes
+	Q(13.1): Okay, <a href="https://www.masslegalhelp.org/housing/lt1-booklet-5-transfer.pdf"target=_blank">click here</a> for the document you need. Please read the instructions carefully. 
+	A: What now?
+		Q(13.1.1): GOTO:4.1.1
+A: No.
+	Q(13.2): Okay, <a href="https://www.mass.gov/orgs/housing-court/locations?_page=2#"target=_blank">click here</a> for a list of the Housing Courts in Massachusetts. Please find the one closest to your home and then <a href="https://www.masslegalhelp.org/housing/lt1-booklet-5-transfer.pdf"target=_blank">click here</a> for the document you need. Please read the instructions carefully.  
+	A: What now?
+		Q(13.2.1): GOTO:4.1.1
+Q(14): The Pandemic has caused a national moratorium to be placed on evictions for non payment of rent until June 30, 2021. <a href="https://www.masslegalhelp.org/covid-19/housing"target=_blank"> Click here </a> to see if you qualify, if you do your Land Lord cannot make you move out until the June 30, 2021. They can still file the Summary Process paperwork to take you to court. If you qualify, you can <a href="https://www.cdc.gov/coronavirus/2019-ncov/downloads/evictiondeclare_d508.pdf"target=_blank">click here</a> for the CDC Declaration form to fill out and give to your Land Lord. <a href="https://www.masslegalhelp.org/covid-19/housing-cdc-eviction-moratorium"target=_blank">Click here</a> if you have any other questions about how this may affect you.
+Q(15): You should consider finding a lawyer in your area who specialize in helping Tenants beat Land Lords in Evictions.  Some attorney's will give free consultations. Please <a href="https://lawyers.findlaw.com/lawyer/practicestate/landlord-tenant/massachusetts"target=_blank">click here</a> to find a lawyer in your area. If you want help finding an attorney for free or low cost, please <a href="https://masslrf.org/en/home"target=_blank">click here</a>. Or, you can take it on yourself and we can help.
+A: I will search for attorneys, thanks for your help.
+	Q(15.1): Okay. GOTO:2
+A: I would like to take this on myself.
+	Q(15.2): Okay. GOTO:4
